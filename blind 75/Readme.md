@@ -418,6 +418,3 @@ This repository contains solutions to various coding problems from LeetCode. The
 
 ...
 
-Please note that the "Link to Solution" placeholders should be replaced with actual links to the corresponding solutions.
-
-Feel free to update this readme.md file with the actual solutions and provide the necessary links.
